@@ -1,3 +1,5 @@
 ### Welcome on my GitHub profile page!
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Kirilliriks&show_icons=true&theme=dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirilliriks&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirilliriks&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirilliriks&theme=zenburn)
